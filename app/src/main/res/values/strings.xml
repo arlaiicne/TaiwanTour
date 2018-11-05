@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Taiwan Tour</string>
+
+    <string name="category_landmarks">Landmarks</string>
+
+    <string name="category_nature">Nature</string>
+
+    <string name="category_food">Food</string>
+
+    <string name="category_activities">Activities</string>
+
+    <string name="nature_qingshui_cliff">Qingshui Cliff</string>
+    <!--description from: https://en.wikipedia.org/wiki/Qingshui_Cliff -->
+    <string name="nature_qingshui_description">Qingshui Cliff (Chinese: 清水斷崖) is a 21 kilometer length
+        of coastal cliffs averaging 800 meters above sea level in Xiulin Township, Hualien County, Taiwan.
+        The tallest peak, Qingshui Mountain, rises 2408 meters directly from the Pacific Ocean. The cliff is
+        located at the southern part of the Suhua Highway that connects the counties of Yilan and Hualien in
+        eastern Taiwan.  It is considered to be a very scenic area and is the highest coastal cliff in Taiwan.</string>
+    <string name="nature_elephant_trail">Elephant Mountain (aka Nangang District Hiking Trail)</string>
+    <!--description from: https://guidetotaipei.com/visit/elephant-mountain-%E8%B1%A1%E5%B1%B1-xiangshan-->
+    <string name="nature_elephant_description">For the best view of Taipei City, make a hike to the top of Elephant Mountain!
+        Also known as the Nangang District Hiking Trail and Xiangshan (象山), the hiking trail is located close to the Xinyi Shopping
+        District and Taipei 101.  The best time to hike the mountain is during late afternoon, this way you can catch the sunset as well
+        as a daytime view and stunning nighttime view of the city, however the trail can get relatively crowded during the weekend.
+        The hike takes a total of around 15-20 minutes to the top, and includes lots of stairs! </string>
+    <string name="nature_yangmingshan_pational_park">Yangmingshan National Park</string>
+    <!--description from: https://en.wikipedia.org/wiki/Yangmingshan-->
+    <string name="nature_yangminshan_description">Yangmingshan National Park is one of the nine national parks in Taiwan, located between
+        Taipei and New Taipei City. The districts that house parts of the park grounds include Taipei\'s Beitou and Shilin Districts; and New
+        Taipei\'s Wanli, Jinshan and Sanzhi Districts. The National Park is famous for its cherry blossoms, hot springs, sulfur deposits,
+        fumaroles, venomous snakes, and hiking trails, including Taiwan\'s tallest dormant volcano, Seven Star Mountain (1,120 m).</string>
+    <string name="food_shilin_night_market">Shilin Night Market</string>
+    <!--description from: https://www.smithsonianmag.com/travel/five-must-visit-night-markets-taipei-city-180959342/-->
+    <string name="food_shilin_description">Shilin Night Market is Taiwan\'s most famous. The area used to be a trading spot where agricultural
+        products were exported to other port cities like Banka or Dadaocheng. Though trading predates the market’s establishment, Shilin has
+        been in operation since 1909. It has since become a must-visit munchy destination that brings color and flavor to Taipei\'s nightlife.</string>
+    <string name="food_din_tai_fung">Din Tai Fung</string>
+    <!--description from: https://www.dintaifung.com.tw/eng/store.php-->
+    <string name="food_din_description">Din Tai Fung was founded in Taiwan in 1958, and has grown from a mom-and-pop restaurant into an
+        internationally recognized brand. Throughout our journey onto the global culinary stage, we have insisted upon and continue to
+        insist upon using natural ingredients, handmade dough, and top quality filling. It is this insistence that has made our xiaolongbao
+        world-renowned and allowed us to open branches far and wide, so that we can continue to satisfy taste buds around the world.</string>
+    <string name="food_lao_shandong_noodles">Lao Shandong Homemade Noodles</string>
+    <!--description from: https://guide.michelin.com/sg/travel/best-taiwanese-beef-noodles-michelin-bib-gourmand-taipei-2018/news-->
+    <string name="food_lao_description">One of the most iconic beef noodles shops is Lao Shandong Homemade Noodles, tucked away in the Wan
+        Nian Building for nearly 70 years. Deservedly chosen as a Bib Gourmand restaurant this year, Lao Shandong homemade noodles treats
+        nothing lightly, from the indulgent broth to handmade noodles to well-cooked beef. This mentality of concentration is what keeps the
+        restaurant ahead of the competition after three generations. </string>
+    <string name="landmark_taipei_101">Taipei 101</string>
+    <!--description from: https://en.wikipedia.org/wiki/Taipei_101-->
+    <string name="landmark_taipei_description">The Taipei 101, formerly known as the Taipei World Financial Center – is a landmark supertall
+        skyscraper in Xinyi District, Taipei, Taiwan. The building was officially classified as the world\'s tallest in 2004, and remained such
+        until the completion of the Burj Khalifa in Dubai in 2010. In 2011, the building was awarded the LEED platinum certification, the highest
+        award according to the Leadership in Energy and Environmental Design (LEED) rating system, and became the tallest and largest green building
+        in the world.It used to have the fastest elevator in the world, traveling at 60.6 km/h (37.7 mph) and transporting passengers from the 5th to
+        89th floor in 37 seconds. In 2016, the title for the fastest elevator was given to the Shanghai Tower in Shanghai.</string>
+    <string name="landmark_qinbi_village">Qinbi Village</string>
+    <!--description from: https://www.matsu-nsa.gov.tw/User/Attraction-Content.aspx?a=53&l=2-->
+    <string name="landmark_qinbi_description">The village of Qinbi is also known as “A Mediterranean town on the Taiwan Straits.” Yet another
+        name for the village is Jingao, or “mirror harbor,” derived from the crystal-clear waters of its bordering sea. The present name means
+        “rice pile wall,” because from Turtle Island just offshore it resembles a pile of rice against the mountain slope behind it.</string>
+    <string name="landmark_jiufen">Jiufen</string>
+    <!--description from: https://guidetotaipei.com/visit/jiufen-%E4%B9%9D%E4%BB%BD-->
+    <string name="landmark_jiufen_description">Feel spirited away in this decommissioned gold mining mountain town, originally built by the
+        Japanese and now a maze of lanes and alleyways with rich history and culture. Founded during the Qing Dynasty, this small town was a
+        relatively isolated village until the discovery of gold during the Japanese occupation in 1893, quickly developing the town due to a
+        gold rush. Many buildings in the town remain unchanged to this day, reflecting the Japanese influence on both architecture and culture
+        on the island. During World War II, the town housed a Japanese prisoner of war camp where captured Allied Force soldiers (mainly British)
+        were forced to work in the gold mines. After the war, gold mining activities declined, and the town today exists mainly as a tourist
+        destination remembering and celebrating Taiwanese history and culture.</string>
+    <string name="activities_new_year">Chinese New Year Lantern Festival</string>
+    <!--description from: https://www.iexplore.com/articles/travel-guides/far-east/taiwan/festivals-and-events-->
+    <string name="activities_new_year_description">Chinese New Year is a 15 day holiday celebrating the passing of the old year and welcoming in
+        the new. It relates to the Chinese Lunar Calendar and begins in February with New Years day and culminates with the Taiwan Lantern
+        Festival, a spectacle involving plenty of lanterns, fireworks and food. This period is characterized by lion dances and fireworks and
+        it is customary to pay off debts, clean houses, give gifts of money in red envelopes, and have family feasts.</string>
+    <string name="activities_dragon_boat">Dragon Boat Festival</string>
+    <!--description from: https://www.iexplore.com/articles/travel-guides/far-east/taiwan/festivals-and-events-->
+    <string name="activities_dragon_description">The Dragon Boat Festival is a June public holiday originating from China that is celebrated
+        on the fifth day of the fifth month of the Chinese lunar calendar. The day is celebrated in Taiwan with dragon boat races, eating
+        glutinous rice dumplings, drinking wine and writing spells.</string>
+    <string name="activities_moon_festival">Autumn Moon Festival</string>
+    <!--description from: https://www.iexplore.com/articles/travel-guides/far-east/taiwan/festivals-and-events-->
+    <string name="activities_moon_description">The Moon Festival talks place in late September or early October, on the 15th day of the eighth
+        month of the Chinese lunar calendar. The festival celebrates harvest time and is characterized by giving and eating moon cakes. Dragon
+        dances, floating lanterns, fireworks and burning incense are also common.</string>
+</resources>
